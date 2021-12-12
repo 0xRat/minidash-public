@@ -1,3 +1,5 @@
+// per CpILL's answer here: https://stackoverflow.com/a/37164538
+
 export function isObject(item) {
   return (item && typeof item === 'object' && !Array.isArray(item));
 }

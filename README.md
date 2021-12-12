@@ -1,15 +1,15 @@
 <h1 align="center">
-  Minimal Dashboard
+  minimal dashboard
 </h1>
 
 a minimal dashboard to track assets in your wallets
 
-## 🚀 Quick start
+## 🚀 quick start
 `npm install -g gatsby-cli`
 
 `npm install`
 
-Values that need to be set in .env.development/.env.production
+values that need to be set in .env.development/.env.production
 ```
 INFURA_PROJECT_ID=
 INFURA_PROJECT_SECRET=
@@ -22,3 +22,4 @@ INTERNAL_STATUS_PORT=
 `gatsby develop`
 
 
+the colors don't mean anything
